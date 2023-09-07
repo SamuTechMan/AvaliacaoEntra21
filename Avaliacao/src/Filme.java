@@ -98,10 +98,4 @@ public class Filme {
     public void setHorarioFilm4(String horarioFilm4) {
         this.horarioFilm4 = horarioFilm4;
     }
-
-
 }
-
-
-
-
